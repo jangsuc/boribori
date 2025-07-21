@@ -1,2 +1,2 @@
-# boribori
+# jangbori
 
